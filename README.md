@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
