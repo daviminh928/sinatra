@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Batch inference fixes (#8854)
